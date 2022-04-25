@@ -1,3 +1,0 @@
-In this project, we are going to learn how to control the working of two LED’s using a push button switch.ATmega 328 microcontroller is used in this project.The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016).It has a modified Harvard architecture 8-bit RISC processor core.
-we will connect the 2 LEDs with PB2 and PB3 of  PORTB of the microcontroller
-
